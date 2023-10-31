@@ -1,0 +1,9 @@
+Conclusions to be made from the school data:
+
+Using individual student data from different high schools we were able to extract values showing the highschools in a more holistic view. From the students math and reading score, we were able to get the averages for each school. And from that find the average passing rate per high school. The individual student data was manipulated to show trends based on different metrics such as school size and budget.
+
+School size:
+Students perform better in medium size schools, with 90.62% of students passing both math and reading. Whilst large schools had only 58.29% of students passing both math and reading. Large schools were lacking in the number of students passing math especially with only 69.96% compared to 93% passing rate for both medium and small schools.
+
+Budget per student:
+The students in schools who spent the least on them <$585 had the greatest overall passing rate of 90.37%. Compared to students with the highest budget between $645-680 spent on them only having a overall passing rate of  52.52%. This goes to show that spending more per student does not positivly correlate to higher passing rate amongst those students.
